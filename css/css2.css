@@ -1,0 +1,22 @@
+*{
+    margin: 0px ;
+    padding: 0px;
+}
+#container{
+    position: relative;
+}
+.box{
+    padding: 5px;
+    float: left;
+}
+.box_img{
+    padding: 5px;
+    border: 1px solid #cccccc; //设置边框
+    box-shadow:0 0 5px #ccc;  //设置阴影
+    border-radius: 5px;  //设置圆角
+}
+.box_img img{
+    width: 150px;
+    height: auto;
+}
+
